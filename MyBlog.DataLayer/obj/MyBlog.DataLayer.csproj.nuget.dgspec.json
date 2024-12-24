@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj": {}
+    "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj": {
+    "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
+        "projectUniqueName": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
         "projectName": "MyBlog.DataLayer",
-        "projectPath": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
+        "projectPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
         "packagesPath": "C:\\Users\\SMHG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.DataLayer\\obj\\",
+        "outputPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

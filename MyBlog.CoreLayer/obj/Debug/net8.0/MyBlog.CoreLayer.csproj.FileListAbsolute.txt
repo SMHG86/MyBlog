@@ -1,0 +1,15 @@
+D:\c#\proje\MyBlog\MyBlog\MyBlog.CoreLayer\bin\Debug\net8.0\MyBlog.CoreLayer.deps.json
+D:\c#\proje\MyBlog\MyBlog\MyBlog.CoreLayer\bin\Debug\net8.0\MyBlog.CoreLayer.dll
+D:\c#\proje\MyBlog\MyBlog\MyBlog.CoreLayer\bin\Debug\net8.0\MyBlog.CoreLayer.pdb
+D:\c#\proje\MyBlog\MyBlog\MyBlog.CoreLayer\bin\Debug\net8.0\MyBlog.DataLayer.dll
+D:\c#\proje\MyBlog\MyBlog\MyBlog.CoreLayer\bin\Debug\net8.0\MyBlog.DataLayer.pdb
+D:\c#\proje\MyBlog\MyBlog\MyBlog.CoreLayer\obj\Debug\net8.0\MyBlog.CoreLayer.csproj.AssemblyReference.cache
+D:\c#\proje\MyBlog\MyBlog\MyBlog.CoreLayer\obj\Debug\net8.0\MyBlog.CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\proje\MyBlog\MyBlog\MyBlog.CoreLayer\obj\Debug\net8.0\MyBlog.CoreLayer.AssemblyInfoInputs.cache
+D:\c#\proje\MyBlog\MyBlog\MyBlog.CoreLayer\obj\Debug\net8.0\MyBlog.CoreLayer.AssemblyInfo.cs
+D:\c#\proje\MyBlog\MyBlog\MyBlog.CoreLayer\obj\Debug\net8.0\MyBlog.CoreLayer.csproj.CoreCompileInputs.cache
+D:\c#\proje\MyBlog\MyBlog\MyBlog.CoreLayer\obj\Debug\net8.0\MyBlog.C.26D95601.Up2Date
+D:\c#\proje\MyBlog\MyBlog\MyBlog.CoreLayer\obj\Debug\net8.0\MyBlog.CoreLayer.dll
+D:\c#\proje\MyBlog\MyBlog\MyBlog.CoreLayer\obj\Debug\net8.0\refint\MyBlog.CoreLayer.dll
+D:\c#\proje\MyBlog\MyBlog\MyBlog.CoreLayer\obj\Debug\net8.0\MyBlog.CoreLayer.pdb
+D:\c#\proje\MyBlog\MyBlog\MyBlog.CoreLayer\obj\Debug\net8.0\ref\MyBlog.CoreLayer.dll

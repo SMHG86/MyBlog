@@ -12,14 +12,10 @@
 
   <ItemGroup>
     <Folder Include="DTOs\Categories\" />
-    <Folder Include="DTOs\Users\" />
-    <Folder Include="DTOs\posts\" />
-    <Folder Include="Mappers\" />
-    <Folder Include="Services\Categories\" />
-    <Folder Include="Services\FileManager\" />
-    <Folder Include="Services\Users\" />
-    <Folder Include="Services\Posts\" />
-    <Folder Include="Utilities\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyBlog.DataLayer\MyBlog.DataLayer.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,14 @@
+D:\c#\proje\MyBlog\MyBlog\MyBlog.DataLayer\bin\Debug\net8.0\MyBlog.DataLayer.deps.json
+D:\c#\proje\MyBlog\MyBlog\MyBlog.DataLayer\bin\Debug\net8.0\MyBlog.DataLayer.runtimeconfig.json
+D:\c#\proje\MyBlog\MyBlog\MyBlog.DataLayer\bin\Debug\net8.0\MyBlog.DataLayer.dll
+D:\c#\proje\MyBlog\MyBlog\MyBlog.DataLayer\bin\Debug\net8.0\MyBlog.DataLayer.pdb
+D:\c#\proje\MyBlog\MyBlog\MyBlog.DataLayer\obj\Debug\net8.0\MyBlog.DataLayer.csproj.AssemblyReference.cache
+D:\c#\proje\MyBlog\MyBlog\MyBlog.DataLayer\obj\Debug\net8.0\MyBlog.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\proje\MyBlog\MyBlog\MyBlog.DataLayer\obj\Debug\net8.0\MyBlog.DataLayer.AssemblyInfoInputs.cache
+D:\c#\proje\MyBlog\MyBlog\MyBlog.DataLayer\obj\Debug\net8.0\MyBlog.DataLayer.AssemblyInfo.cs
+D:\c#\proje\MyBlog\MyBlog\MyBlog.DataLayer\obj\Debug\net8.0\MyBlog.DataLayer.csproj.CoreCompileInputs.cache
+D:\c#\proje\MyBlog\MyBlog\MyBlog.DataLayer\obj\Debug\net8.0\MyBlog.DataLayer.dll
+D:\c#\proje\MyBlog\MyBlog\MyBlog.DataLayer\obj\Debug\net8.0\refint\MyBlog.DataLayer.dll
+D:\c#\proje\MyBlog\MyBlog\MyBlog.DataLayer\obj\Debug\net8.0\MyBlog.DataLayer.pdb
+D:\c#\proje\MyBlog\MyBlog\MyBlog.DataLayer\obj\Debug\net8.0\MyBlog.DataLayer.genruntimeconfig.cache
+D:\c#\proje\MyBlog\MyBlog\MyBlog.DataLayer\obj\Debug\net8.0\ref\MyBlog.DataLayer.dll

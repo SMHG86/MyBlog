@@ -2840,11 +2840,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.web\\MyBlog.web.csproj",
+      "projectUniqueName": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\MyBlog.web.csproj",
       "projectName": "MyBlog.web",
-      "projectPath": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.web\\MyBlog.web.csproj",
+      "projectPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\MyBlog.web.csproj",
       "packagesPath": "C:\\Users\\SMHG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.web\\obj\\",
+      "outputPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
