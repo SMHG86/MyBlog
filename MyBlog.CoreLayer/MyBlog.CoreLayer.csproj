@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\Categories\" />
+    <Folder Include="DTOs\Users\" />
+    <Folder Include="DTOs\posts\" />
+    <Folder Include="Mappers\" />
+    <Folder Include="Services\Categories\" />
+    <Folder Include="Services\FileManager\" />
+    <Folder Include="Services\Users\" />
+    <Folder Include="Services\Posts\" />
+    <Folder Include="Utilities\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|c:\\users\\smhg\\desktop\\myblog\\myblog\\myblog.corelayer\\myblog.corelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\myblog.corelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|c:\\users\\smhg\\desktop\\myblog\\myblog\\myblog.datalayer\\myblog.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|solutionrelative:myblog.datalayer\\myblog.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|c:\\users\\smhg\\desktop\\myblog\\myblog\\myblog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|solutionrelative:myblog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|c:\\users\\smhg\\desktop\\myblog\\myblog\\myblog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|solutionrelative:myblog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|c:\\users\\smhg\\desktop\\myblog\\myblog\\myblog.web\\myblog.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|solutionrelative:myblog.web\\myblog.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyBlog.CoreLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj",
+              "ToolTip": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj",
+              "RelativeToolTip": "MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T10:52:39.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyBlog.DataLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
+              "RelativeDocumentMoniker": "MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
+              "ToolTip": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
+              "RelativeToolTip": "MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T10:51:04.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.web\\Program.cs",
+              "RelativeDocumentMoniker": "MyBlog.web\\Program.cs",
+              "ToolTip": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.web\\Program.cs",
+              "RelativeToolTip": "MyBlog.web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:28:46.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.web\\appsettings.json",
+              "RelativeDocumentMoniker": "MyBlog.web\\appsettings.json",
+              "ToolTip": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.web\\appsettings.json",
+              "RelativeToolTip": "MyBlog.web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T10:28:21.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyBlog.web.csproj",
+              "DocumentMoniker": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.web\\MyBlog.web.csproj",
+              "RelativeDocumentMoniker": "MyBlog.web\\MyBlog.web.csproj",
+              "ToolTip": "C:\\Users\\SMHG\\Desktop\\MyBlog\\MyBlog\\MyBlog.web\\MyBlog.web.csproj",
+              "RelativeToolTip": "MyBlog.web\\MyBlog.web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T10:18:35.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
