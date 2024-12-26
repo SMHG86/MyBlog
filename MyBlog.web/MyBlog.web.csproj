@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Cookies" Version="2.2.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -24,6 +25,11 @@
     <Folder Include="Areas\UserPanel\Pages\" />
     <Folder Include="Pages\Auth\" />
     <Folder Include="Pages\Shared\Headers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyBlog.CoreLayer\MyBlog.CoreLayer.csproj" />
+    <ProjectReference Include="..\MyBlog.DataLayer\MyBlog.DataLayer.csproj" />
   </ItemGroup>
 
 </Project>

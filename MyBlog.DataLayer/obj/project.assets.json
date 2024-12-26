@@ -4740,11 +4740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
+      "projectUniqueName": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
       "projectName": "MyBlog.DataLayer",
-      "projectPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
+      "projectPath": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
       "packagesPath": "C:\\Users\\SMHG\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\obj\\",
+      "outputPath": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
