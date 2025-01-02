@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.web\\MyBlog.web.csproj": {}
+    "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\MyBlog.web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj": {
+    "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj",
+        "projectUniqueName": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj",
         "projectName": "MyBlog.CoreLayer",
-        "projectPath": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj",
+        "projectPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj",
         "packagesPath": "C:\\Users\\SMHG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.CoreLayer\\obj\\",
+        "outputPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj": {
-                "projectPath": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj"
+              "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj": {
+                "projectPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj": {
+    "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
+        "projectUniqueName": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
         "projectName": "MyBlog.DataLayer",
-        "projectPath": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
+        "projectPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
         "packagesPath": "C:\\Users\\SMHG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.DataLayer\\obj\\",
+        "outputPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,14 +162,14 @@
         }
       }
     },
-    "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.web\\MyBlog.web.csproj": {
+    "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\MyBlog.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.web\\MyBlog.web.csproj",
+        "projectUniqueName": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\MyBlog.web.csproj",
         "projectName": "MyBlog.web",
-        "projectPath": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.web\\MyBlog.web.csproj",
+        "projectPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\MyBlog.web.csproj",
         "packagesPath": "C:\\Users\\SMHG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.web\\obj\\",
+        "outputPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -191,11 +191,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj": {
-                "projectPath": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj"
+              "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj": {
+                "projectPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj"
               },
-              "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj": {
-                "projectPath": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj"
+              "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj": {
+                "projectPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj"
               }
             }
           }
