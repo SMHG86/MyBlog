@@ -126,6 +126,7 @@ D:\c#\proje\MyBlog\MyBlog\MyBlog.web\obj\Debug\net8.0\staticwebassets\msbuild.bu
 D:\c#\proje\MyBlog\MyBlog\MyBlog.web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyBlog.web.props
 D:\c#\proje\MyBlog\MyBlog\MyBlog.web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyBlog.web.props
 D:\c#\proje\MyBlog\MyBlog\MyBlog.web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\c#\proje\MyBlog\MyBlog\MyBlog.web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\c#\proje\MyBlog\MyBlog\MyBlog.web\obj\Debug\net8.0\MyBlog.web.csproj.Up2Date
 D:\c#\proje\MyBlog\MyBlog\MyBlog.web\obj\Debug\net8.0\MyBlog.web.dll
 D:\c#\proje\MyBlog\MyBlog\MyBlog.web\obj\Debug\net8.0\refint\MyBlog.web.dll
