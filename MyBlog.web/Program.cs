@@ -22,7 +22,7 @@ builder.Services.AddTransient<IFileManager, FileManager>();
 builder.Services.AddDbContext<MyBlog.DataLayer.Context.BlogContext>(options =>
 {
     options.UseSqlServer(
-        builder.Configuration.GetConnectionString("DefaultConnection"),
+        builder.Configuration.GetConnectionString("Default"),
         b => b.MigrationsAssembly("MyBlog.DataLayer"));
 });
 
