@@ -1,10 +1,31 @@
-﻿@page
-@model IndexModel
-@{
-    ViewData["Title"] = "Home page";
+﻿@{
+    ViewData["Title"] = "صفحه اصلی";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<section class="hero text-center">
+    <div>
+        <h1>به وبلاگ و فروشگاه من خوش آمدید</h1>
+        <p class="lead">مکانی برای یادگیری و خرید بهترین محصولات</p>
+        <a href="/Blog" class="btn btn-primary btn-lg mx-2">مطالعه بلاگ</a>
+        <a href="/Shop" class="btn btn-success btn-lg mx-2">مشاهده فروشگاه</a>
+    </div>
+</section>
+
+<section class="my-5">
+    <div class="container">
+        <h2 class="text-center mb-4">پست‌های اخیر</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="/images/post1.jpg" class="card-img-top" alt="Post 1">
+                    <div class="card-body">
+                        <h5 class="card-title">عنوان پست اول</h5>
+                        <p class="card-text">توضیحات کوتاه در مورد پست اول.</p>
+                        <a href="/Blog/Details/1" class="btn btn-primary">ادامه مطلب</a>
+                    </div>
+                </div>
+            </div>
+            <!-- اضافه کردن پست‌های بیشتر -->
+        </div>
+    </div>
+</section>
