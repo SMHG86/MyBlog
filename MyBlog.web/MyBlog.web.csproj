@@ -15,16 +15,33 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Admin\Controllers\" />
-    <Folder Include="Areas\Admin\Models\Categories\" />
-    <Folder Include="Areas\Admin\Models\Posts\" />
-    <Folder Include="Areas\Admin\Views\Category\" />
-    <Folder Include="Areas\Admin\Views\Home\" />
-    <Folder Include="Areas\Admin\Views\Post\" />
-    <Folder Include="Areas\Admin\Views\Shared\EditorTemplates\" />
-    <Folder Include="Areas\UserPanel\Pages\" />
-    <Folder Include="Pages\Auth\" />
-    <Folder Include="Pages\Shared\Headers\" />
+    <None Include="wwwroot\admin\build\.DS_Store" />
+    <None Include="wwwroot\admin\build\less\.DS_Store" />
+    <None Include="wwwroot\admin\dist\.DS_Store" />
+    <None Include="wwwroot\admin\dist\css\.DS_Store" />
+    <None Include="wwwroot\admin\dist\img\.DS_Store" />
+    <None Include="wwwroot\admin\dist\js\.DS_Store" />
+    <None Include="wwwroot\admin\plugins\.DS_Store" />
+    <None Include="wwwroot\admin\plugins\iCheck\.DS_Store" />
+    <None Include="wwwroot\admin\plugins\input-mask\.DS_Store" />
+    <None Include="wwwroot\wwwroot\admin\build\.DS_Store" />
+    <None Include="wwwroot\wwwroot\admin\build\less\.DS_Store" />
+    <None Include="wwwroot\wwwroot\admin\dist\.DS_Store" />
+    <None Include="wwwroot\wwwroot\admin\dist\css\.DS_Store" />
+    <None Include="wwwroot\wwwroot\admin\dist\img\.DS_Store" />
+    <None Include="wwwroot\wwwroot\admin\dist\js\.DS_Store" />
+    <None Include="wwwroot\wwwroot\admin\plugins\.DS_Store" />
+    <None Include="wwwroot\wwwroot\admin\plugins\iCheck\.DS_Store" />
+    <None Include="wwwroot\wwwroot\admin\plugins\input-mask\.DS_Store" />
+    <None Include="wwwroot\wwwroot\ckeditor4\admin\build\.DS_Store" />
+    <None Include="wwwroot\wwwroot\ckeditor4\admin\build\less\.DS_Store" />
+    <None Include="wwwroot\wwwroot\ckeditor4\admin\dist\.DS_Store" />
+    <None Include="wwwroot\wwwroot\ckeditor4\admin\dist\css\.DS_Store" />
+    <None Include="wwwroot\wwwroot\ckeditor4\admin\dist\img\.DS_Store" />
+    <None Include="wwwroot\wwwroot\ckeditor4\admin\dist\js\.DS_Store" />
+    <None Include="wwwroot\wwwroot\ckeditor4\admin\plugins\.DS_Store" />
+    <None Include="wwwroot\wwwroot\ckeditor4\admin\plugins\iCheck\.DS_Store" />
+    <None Include="wwwroot\wwwroot\ckeditor4\admin\plugins\input-mask\.DS_Store" />
   </ItemGroup>
 
   <ItemGroup>
