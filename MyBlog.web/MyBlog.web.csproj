@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\wwwroot\**" />
+    <Content Remove="wwwroot\wwwroot\**" />
+    <EmbeddedResource Remove="wwwroot\wwwroot\**" />
+    <None Remove="wwwroot\wwwroot\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Authentication.Cookies" Version="2.2.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
       <PrivateAssets>all</PrivateAssets>
@@ -24,24 +31,6 @@
     <None Include="wwwroot\admin\plugins\.DS_Store" />
     <None Include="wwwroot\admin\plugins\iCheck\.DS_Store" />
     <None Include="wwwroot\admin\plugins\input-mask\.DS_Store" />
-    <None Include="wwwroot\wwwroot\admin\build\.DS_Store" />
-    <None Include="wwwroot\wwwroot\admin\build\less\.DS_Store" />
-    <None Include="wwwroot\wwwroot\admin\dist\.DS_Store" />
-    <None Include="wwwroot\wwwroot\admin\dist\css\.DS_Store" />
-    <None Include="wwwroot\wwwroot\admin\dist\img\.DS_Store" />
-    <None Include="wwwroot\wwwroot\admin\dist\js\.DS_Store" />
-    <None Include="wwwroot\wwwroot\admin\plugins\.DS_Store" />
-    <None Include="wwwroot\wwwroot\admin\plugins\iCheck\.DS_Store" />
-    <None Include="wwwroot\wwwroot\admin\plugins\input-mask\.DS_Store" />
-    <None Include="wwwroot\wwwroot\ckeditor4\admin\build\.DS_Store" />
-    <None Include="wwwroot\wwwroot\ckeditor4\admin\build\less\.DS_Store" />
-    <None Include="wwwroot\wwwroot\ckeditor4\admin\dist\.DS_Store" />
-    <None Include="wwwroot\wwwroot\ckeditor4\admin\dist\css\.DS_Store" />
-    <None Include="wwwroot\wwwroot\ckeditor4\admin\dist\img\.DS_Store" />
-    <None Include="wwwroot\wwwroot\ckeditor4\admin\dist\js\.DS_Store" />
-    <None Include="wwwroot\wwwroot\ckeditor4\admin\plugins\.DS_Store" />
-    <None Include="wwwroot\wwwroot\ckeditor4\admin\plugins\iCheck\.DS_Store" />
-    <None Include="wwwroot\wwwroot\ckeditor4\admin\plugins\input-mask\.DS_Store" />
   </ItemGroup>
 
   <ItemGroup>
