@@ -8,43 +8,55 @@ namespace MyBlog.CoreLayer.Mappers
     {
         public static Post MapCreateDtoToPost(CreatePostDto dto)
         {
+            if (dto == null)
+                return null;
+
             return new Post()
             {
+                Title = dto.Title,
                 Description = dto.Description,
                 CategoryId = dto.CategoryId,
+                SubCategoryId = dto.SubCategoryId,
                 Slug = dto.Slug.ToSlug(),
-                Title = dto.Title,
                 UserId = dto.UserId,
                 Visit = 0,
-                IsDelete = false,
-                SubCategoryId=dto.SubCategoryId
+                IsDelete = false
             };
         }
+
         public static PostDto MapToDto(Post post)
         {
+            if (post == null)
+                return null;
+
             return new PostDto()
             {
+                PostId = post.Id,
+                Title = post.Title,
                 Description = post.Description,
                 CategoryId = post.CategoryId,
+                SubCategoryId = post.SubCategoryId,
                 Slug = post.Slug,
-                Title = post.Title,
                 UserId = post.UserId,
                 Visit = post.Visit,
                 CreationDate = post.CreationDate,
-                Category = CategoryMapper.Map(post.Category),
                 ImageName = post.ImageName,
-                PostId = post.Id,
-                SubCategoryId = post.SubCategoryId,
+                Category = CategoryMapper.Map(post.Category),
                 SubCategory = post.SubCategoryId == null ? null : CategoryMapper.Map(post.SubCategory)
             };
         }
+
         public static Post EditPost(EditPostDto editDto, Post post)
         {
-            post.Description = editDto.Description;
+            if (editDto == null || post == null)
+                return post;
+
             post.Title = editDto.Title;
+            post.Description = editDto.Description;
             post.CategoryId = editDto.CategoryId;
-            post.Slug = editDto.Slug.ToSlug();
             post.SubCategoryId = editDto.SubCategoryId;
+            post.Slug = editDto.Slug.ToSlug();
+
             return post;
         }
     }

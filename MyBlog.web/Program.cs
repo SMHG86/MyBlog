@@ -74,23 +74,22 @@ else
     app.UseHsts();
 }
 
-// استفاده از HTTPS و فشرده‌سازی پاسخ‌ها
 app.UseHttpsRedirection();
-// توجه: اگر می‌خواهید فایل‌های استاتیک هم فشرده شوند، بهتر است UseResponseCompression را قبل از UseStaticFiles فراخوانی کنید.
+// در صورت تمایل، می‌توانید ترتیب استفاده از ResponseCompression و StaticFiles را تغییر دهید
 app.UseResponseCompression();
 app.UseStaticFiles();
 
 app.UseRouting();
 
 // اضافه کردن middleware برای Content-Security-Policy (CSP)
-// توجه: در صورت امکان بهتر است از nonce یا hash به جای 'unsafe-inline' استفاده کنید.
+// توصیه: در صورت امکان استفاده از nonce یا hash به جای 'unsafe-inline'
 app.Use(async (context, next) =>
 {
     context.Response.Headers.Add("Content-Security-Policy", "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self';");
     await next();
 });
 
-// استفاده از Rate Limiter به عنوان اولین Middleware بعد از Routing (برای محافظت زودهنگام)
+// استفاده از Rate Limiter به عنوان اولین Middleware بعد از Routing
 app.UseRateLimiter();
 
 app.UseAuthentication();

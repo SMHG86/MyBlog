@@ -3,8 +3,100 @@
   "WorkspaceRootPath": "D:\\c#\\proje\\MyBlog\\MyBlog\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\dtos\\categories\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\dtos\\categories\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.datalayer\\context\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|solutionrelative:myblog.datalayer\\context\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\utilities\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\utilities\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\utilities\\encoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\utilities\\encoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\utilities\\userutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\utilities\\userutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\utilities\\texthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\utilities\\texthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\utilities\\directories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\utilities\\directories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\services\\filemanager\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\services\\filemanager\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\services\\posts\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\services\\posts\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\services\\categories\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\services\\categories\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\mappers\\postmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\mappers\\postmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\mappers\\categorymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\mappers\\categorymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|solutionrelative:myblog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\services\\filemanager\\ifilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\services\\filemanager\\ifilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\services\\categories\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\services\\categories\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\dtos\\posts\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\dtos\\posts\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\dtos\\categories\\editcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\dtos\\categories\\editcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|solutionrelative:myblog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|solutionrelative:myblog.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.web\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|solutionrelative:myblog.web\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.web\\areas\\userpanel\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|solutionrelative:myblog.web\\areas\\userpanel\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.web\\areas\\userpanel\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|solutionrelative:myblog.web\\areas\\userpanel\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.web\\pages\\auth\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +121,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.web\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|solutionrelative:myblog.web\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.web\\areas\\userpanel\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|solutionrelative:myblog.web\\areas\\userpanel\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.web\\areas\\userpanel\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -67,10 +155,6 @@
       "RelativeMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|solutionrelative:myblog.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|solutionrelative:myblog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|solutionrelative:myblog.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -99,24 +183,12 @@
       "RelativeMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|solutionrelative:myblog.datalayer\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\utilities\\encoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\utilities\\encoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.datalayer\\myblog.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|solutionrelative:myblog.datalayer\\myblog.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.datalayer\\context\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|solutionrelative:myblog.datalayer\\context\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C1E26576-27B7-4B0A-B4AB-B676EE24CDCF}|MyBlog.web\\MyBlog.web.csproj|solutionrelative:myblog.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8713E808-F3C8-4FEB-9993-B700BA16015A}|MyBlog.DataLayer\\MyBlog.DataLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -138,28 +210,12 @@
       "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\utilities\\texthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\utilities\\texthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\services\\categories\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\services\\categories\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\myblog.corelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\myblog.corelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\mappers\\postmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\mappers\\postmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\mappers\\categorymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\mappers\\categorymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\dtos\\users\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -180,18 +236,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\dtos\\posts\\editpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\dtos\\posts\\editpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\dtos\\posts\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\dtos\\posts\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\dtos\\categories\\editcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\dtos\\categories\\editcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|d:\\c#\\proje\\myblog\\myblog\\myblog.corelayer\\dtos\\categories\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18DB35E8-83A1-4D93-8B97-A8BCFFA20A01}|MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj|solutionrelative:myblog.corelayer\\dtos\\categories\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -201,37 +245,301 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Auth\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "MyBlog.web\\Pages\\Auth\\Register.cshtml.cs",
-              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Auth\\Register.cshtml.cs",
-              "RelativeToolTip": "MyBlog.web\\Pages\\Auth\\Register.cshtml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Services\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Services\\Users\\UserService.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Services\\Users\\UserService.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\Services\\Users\\UserService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T13:54:05.329Z",
+              "WhenOpened": "2025-02-11T14:21:30.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Directories.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Utilities\\Directories.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Utilities\\Directories.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Utilities\\Directories.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\Utilities\\Directories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:21:59.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Encoder.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Utilities\\Encoder.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Utilities\\Encoder.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Utilities\\Encoder.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\Utilities\\Encoder.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:10:15.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextHelper.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Utilities\\TextHelper.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Utilities\\TextHelper.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Utilities\\TextHelper.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\Utilities\\TextHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:20:40.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserUtil.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Utilities\\UserUtil.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Utilities\\UserUtil.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Utilities\\UserUtil.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\Utilities\\UserUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:23:40.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Auth\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "MyBlog.web\\Pages\\Auth\\Login.cshtml.cs",
-              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Auth\\Login.cshtml.cs",
-              "RelativeToolTip": "MyBlog.web\\Pages\\Auth\\Login.cshtml.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Utilities\\OperationResult.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Utilities\\OperationResult.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Utilities\\OperationResult.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\Utilities\\OperationResult.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T13:53:08.873Z",
+              "WhenOpened": "2025-02-11T14:22:07.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "BlogContext.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\Context\\BlogContext.cs",
+              "RelativeDocumentMoniker": "MyBlog.DataLayer\\Context\\BlogContext.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\Context\\BlogContext.cs",
+              "RelativeToolTip": "MyBlog.DataLayer\\Context\\BlogContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:17:53.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\Categories\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\DTOs\\Categories\\CreateCategoryDto.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\Categories\\CreateCategoryDto.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\DTOs\\Categories\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:03:16.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Services\\FileManager\\FileManager.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Services\\FileManager\\FileManager.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Services\\FileManager\\FileManager.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\Services\\FileManager\\FileManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:20:52.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Services\\Posts\\PostService.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Services\\Posts\\PostService.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Services\\Posts\\PostService.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\Services\\Posts\\PostService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:21:13.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Services\\Categories\\CategoryService.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Services\\Categories\\CategoryService.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Services\\Categories\\CategoryService.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\Services\\Categories\\CategoryService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:10:10.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostMapper.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Mappers\\PostMapper.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Mappers\\PostMapper.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Mappers\\PostMapper.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\Mappers\\PostMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:10:08.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryMapper.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Mappers\\CategoryMapper.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Mappers\\CategoryMapper.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Mappers\\CategoryMapper.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\Mappers\\CategoryMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:10:04.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Program.cs",
+              "RelativeDocumentMoniker": "MyBlog.web\\Program.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Program.cs",
+              "RelativeToolTip": "MyBlog.web\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:28:46.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFileManager.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Services\\FileManager\\IFileManager.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Services\\FileManager\\IFileManager.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Services\\FileManager\\IFileManager.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\Services\\FileManager\\IFileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:20:51.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Services\\Categories\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Services\\Categories\\ICategoryService.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Services\\Categories\\ICategoryService.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\Services\\Categories\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:20:08.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreatePostDto.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\posts\\CreatePostDto.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\DTOs\\posts\\CreatePostDto.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\posts\\CreatePostDto.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\DTOs\\posts\\CreatePostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:04:19.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditCategoryDto.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\Categories\\EditCategoryDto.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\DTOs\\Categories\\EditCategoryDto.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\Categories\\EditCategoryDto.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\DTOs\\Categories\\EditCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:03:53.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\Categories\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\DTOs\\Categories\\CategoryDto.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\Categories\\CategoryDto.cs",
+              "RelativeToolTip": "MyBlog.CoreLayer\\DTOs\\Categories\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:01:40.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\appsettings.json",
+              "RelativeDocumentMoniker": "MyBlog.web\\appsettings.json",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\appsettings.json",
+              "RelativeToolTip": "MyBlog.web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T10:28:21.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyBlog.web\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "MyBlog.web\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:54:15.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "MyBlog.web\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "MyBlog.web\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:54:44.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "MyBlog.web\\Pages\\Auth\\Login.cshtml",
@@ -239,12 +547,48 @@
               "RelativeToolTip": "MyBlog.web\\Pages\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-07T13:52:58.362Z",
+              "WhenOpened": "2025-02-07T13:52:58.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Auth\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "MyBlog.web\\Pages\\Auth\\Login.cshtml.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Auth\\Login.cshtml.cs",
+              "RelativeToolTip": "MyBlog.web\\Pages\\Auth\\Login.cshtml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:53:08.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Auth\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "MyBlog.web\\Pages\\Auth\\Register.cshtml.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Auth\\Register.cshtml.cs",
+              "RelativeToolTip": "MyBlog.web\\Pages\\Auth\\Register.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:54:05.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Areas\\UserPanel\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyBlog.web\\Areas\\UserPanel\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Areas\\UserPanel\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "MyBlog.web\\Areas\\UserPanel\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:54:00.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 27,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "MyBlog.web\\Pages\\Auth\\Register.cshtml",
@@ -252,12 +596,11 @@
               "RelativeToolTip": "MyBlog.web\\Pages\\Auth\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-07T13:52:46.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T13:52:46.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 28,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "MyBlog.web\\Pages\\Error.cshtml",
@@ -265,12 +608,11 @@
               "RelativeToolTip": "MyBlog.web\\Pages\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T18:05:38.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T18:05:38.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Areas\\UserPanel\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "MyBlog.web\\Areas\\UserPanel\\Pages\\Index.cshtml",
@@ -278,11 +620,12 @@
               "RelativeToolTip": "MyBlog.web\\Areas\\UserPanel\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T18:05:15.034Z"
+              "WhenOpened": "2025-02-01T18:05:15.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 30,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Areas\\UserPanel\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MyBlog.web\\Areas\\UserPanel\\Pages\\_ViewImports.cshtml",
@@ -294,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 29,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MyBlog.web\\Pages\\_ViewStart.cshtml",
@@ -306,24 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Program.cs",
-              "RelativeDocumentMoniker": "MyBlog.web\\Program.cs",
-              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Program.cs",
-              "RelativeToolTip": "MyBlog.web\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T10:28:46.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 31,
               "Title": "EditCategoryViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Areas\\Admin\\Models\\Categories\\EditCategoryViewModel.cs",
               "RelativeDocumentMoniker": "MyBlog.web\\Areas\\Admin\\Models\\Categories\\EditCategoryViewModel.cs",
@@ -335,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 32,
               "Title": "PostController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Areas\\Admin\\Controllers\\PostController.cs",
               "RelativeDocumentMoniker": "MyBlog.web\\Areas\\Admin\\Controllers\\PostController.cs",
@@ -347,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 33,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MyBlog.web\\Areas\\Admin\\Controllers\\HomeController.cs",
@@ -359,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 34,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "MyBlog.web\\Areas\\Admin\\Controllers\\CategoryController.cs",
@@ -371,7 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 38,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\appsettings.Development.json",
               "RelativeDocumentMoniker": "MyBlog.web\\appsettings.Development.json",
@@ -383,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 36,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MyBlog.web\\Pages\\Shared\\_Layout.cshtml",
@@ -395,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 35,
               "Title": "MyBlog.web.csproj",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\MyBlog.web.csproj",
               "RelativeDocumentMoniker": "MyBlog.web\\MyBlog.web.csproj",
@@ -407,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 41,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "MyBlog.web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -419,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 42,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MyBlog.web\\Pages\\_ViewImports.cshtml",
@@ -431,7 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 37,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "MyBlog.web\\Pages\\Index.cshtml",
@@ -443,19 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\appsettings.json",
-              "RelativeDocumentMoniker": "MyBlog.web\\appsettings.json",
-              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\appsettings.json",
-              "RelativeToolTip": "MyBlog.web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-24T10:28:21.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 39,
               "Title": "site.css",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "MyBlog.web\\wwwroot\\css\\site.css",
@@ -467,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 40,
               "Title": "bootstrap.js",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\wwwroot\\js\\bootstrap.js",
               "RelativeDocumentMoniker": "MyBlog.web\\wwwroot\\js\\bootstrap.js",
@@ -479,7 +793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 43,
               "Title": "BlogContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\Migrations\\BlogContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "MyBlog.DataLayer\\Migrations\\BlogContextModelSnapshot.cs",
@@ -491,7 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 44,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "MyBlog.DataLayer\\Entities\\BaseEntity.cs",
@@ -503,19 +817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Encoder.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Utilities\\Encoder.cs",
-              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Utilities\\Encoder.cs",
-              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Utilities\\Encoder.cs",
-              "RelativeToolTip": "MyBlog.CoreLayer\\Utilities\\Encoder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:10:15.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 45,
               "Title": "MyBlog.DataLayer.csproj",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
               "RelativeDocumentMoniker": "MyBlog.DataLayer\\MyBlog.DataLayer.csproj",
@@ -527,19 +829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "BlogContext.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\Context\\BlogContext.cs",
-              "RelativeDocumentMoniker": "MyBlog.DataLayer\\Context\\BlogContext.cs",
-              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\Context\\BlogContext.cs",
-              "RelativeToolTip": "MyBlog.DataLayer\\Context\\BlogContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:17:53.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 46,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MyBlog.web\\Properties\\launchSettings.json",
@@ -551,7 +841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 49,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.DataLayer\\Entities\\Category.cs",
               "ToolTip": "C:\\Users\\SMHG\\Desktop\\github\\MyBlog\\MyBlog.DataLayer\\Entities\\Category.cs",
@@ -561,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 47,
               "Title": "PostComment.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\Entities\\PostComment.cs",
               "RelativeDocumentMoniker": "MyBlog.DataLayer\\Entities\\PostComment.cs",
@@ -573,19 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\Categories\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\DTOs\\Categories\\CategoryDto.cs",
-              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\Categories\\CategoryDto.cs",
-              "RelativeToolTip": "MyBlog.CoreLayer\\DTOs\\Categories\\CategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:01:40.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 48,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.web\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "MyBlog.web\\Pages\\Privacy.cshtml",
@@ -597,7 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 50,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.DataLayer\\Entities\\User.cs",
               "RelativeDocumentMoniker": "MyBlog.DataLayer\\Entities\\User.cs",
@@ -609,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 51,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Services\\Users\\IUserService.cs",
               "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Services\\Users\\IUserService.cs",
@@ -621,31 +899,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "TextHelper.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Utilities\\TextHelper.cs",
-              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Utilities\\TextHelper.cs",
-              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Utilities\\TextHelper.cs",
-              "RelativeToolTip": "MyBlog.CoreLayer\\Utilities\\TextHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:20:40.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Services\\Categories\\CategoryService.cs",
-              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Services\\Categories\\CategoryService.cs",
-              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Services\\Categories\\CategoryService.cs",
-              "RelativeToolTip": "MyBlog.CoreLayer\\Services\\Categories\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:10:10.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 53,
               "Title": "MyBlog.CoreLayer.csproj",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj",
               "RelativeDocumentMoniker": "MyBlog.CoreLayer\\MyBlog.CoreLayer.csproj",
@@ -657,7 +911,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 52,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\Users\\UserDto.cs",
               "RelativeDocumentMoniker": "MyBlog.CoreLayer\\DTOs\\Users\\UserDto.cs",
@@ -669,31 +923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "PostMapper.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Mappers\\PostMapper.cs",
-              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Mappers\\PostMapper.cs",
-              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Mappers\\PostMapper.cs",
-              "RelativeToolTip": "MyBlog.CoreLayer\\Mappers\\PostMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:10:08.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "CategoryMapper.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Mappers\\CategoryMapper.cs",
-              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\Mappers\\CategoryMapper.cs",
-              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\Mappers\\CategoryMapper.cs",
-              "RelativeToolTip": "MyBlog.CoreLayer\\Mappers\\CategoryMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:10:04.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 55,
               "Title": "UserRegisterDto.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\Users\\UserRegisterDto.cs",
               "RelativeDocumentMoniker": "MyBlog.CoreLayer\\DTOs\\Users\\UserRegisterDto.cs",
@@ -705,7 +935,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 54,
               "Title": "LoginUserDto.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\Users\\LoginUserDto.cs",
               "RelativeDocumentMoniker": "MyBlog.CoreLayer\\DTOs\\Users\\LoginUserDto.cs",
@@ -717,7 +947,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 56,
               "Title": "PostFilterDto.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\posts\\PostFilterDto.cs",
               "RelativeDocumentMoniker": "MyBlog.CoreLayer\\DTOs\\posts\\PostFilterDto.cs",
@@ -729,7 +959,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 57,
               "Title": "PostDto.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\posts\\PostDto.cs",
               "RelativeDocumentMoniker": "MyBlog.CoreLayer\\DTOs\\posts\\PostDto.cs",
@@ -741,7 +971,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 58,
               "Title": "EditPostDto.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\posts\\EditPostDto.cs",
               "RelativeDocumentMoniker": "MyBlog.CoreLayer\\DTOs\\posts\\EditPostDto.cs",
@@ -750,42 +980,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T11:04:35.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "CreatePostDto.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\posts\\CreatePostDto.cs",
-              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\DTOs\\posts\\CreatePostDto.cs",
-              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\posts\\CreatePostDto.cs",
-              "RelativeToolTip": "MyBlog.CoreLayer\\DTOs\\posts\\CreatePostDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:04:19.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "EditCategoryDto.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\Categories\\EditCategoryDto.cs",
-              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\DTOs\\Categories\\EditCategoryDto.cs",
-              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\Categories\\EditCategoryDto.cs",
-              "RelativeToolTip": "MyBlog.CoreLayer\\DTOs\\Categories\\EditCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:03:53.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "CreateCategoryDto.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\Categories\\CreateCategoryDto.cs",
-              "RelativeDocumentMoniker": "MyBlog.CoreLayer\\DTOs\\Categories\\CreateCategoryDto.cs",
-              "ToolTip": "D:\\c#\\proje\\MyBlog\\MyBlog\\MyBlog.CoreLayer\\DTOs\\Categories\\CreateCategoryDto.cs",
-              "RelativeToolTip": "MyBlog.CoreLayer\\DTOs\\Categories\\CreateCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:03:16.64Z"
             }
           ]
         }

@@ -25,7 +25,6 @@
         #endregion
 
         #region NotFound
-
         public static OperationResult NotFound(string message)
         {
             return new OperationResult()
@@ -42,11 +41,9 @@
                 Message = "اطلاعات درخواستی یافت نشد",
             };
         }
-
         #endregion
 
-        #region Succsess
-
+        #region Success
         public static OperationResult Success()
         {
             return new OperationResult()
@@ -65,6 +62,7 @@
         }
         #endregion
     }
+
     public enum OperationResultStatus
     {
         Error = 10,

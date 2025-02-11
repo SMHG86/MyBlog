@@ -7,14 +7,17 @@ namespace MyBlog.CoreLayer.Mappers
     {
         public static CategoryDto Map(Category category)
         {
+            if (category == null)
+                return null;
+
             return new CategoryDto()
             {
-                MetaDescription = category.MetaDescription,
-                MetaTag = category.MetaTag,
-                Slug = category.Slug,
-                ParentId = category.ParentId,
                 Id = category.Id,
-                Title = category.Title
+                Title = category.Title,
+                ParentId = category.ParentId,
+                Slug = category.Slug,
+                MetaTag = category.MetaTag,
+                MetaDescription = category.MetaDescription
             };
         }
     }

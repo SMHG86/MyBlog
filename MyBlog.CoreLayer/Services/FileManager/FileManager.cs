@@ -8,27 +8,50 @@ namespace MyBlog.CoreLayer.Services.FileManager
     {
         public void DeleteFile(string fileName, string path)
         {
-            var filePath = Path.Combine(Directory.GetCurrentDirectory(), path,fileName);
+            if (string.IsNullOrWhiteSpace(fileName) || string.IsNullOrWhiteSpace(path))
+                return;
+
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), path, fileName);
             if (File.Exists(filePath))
-                File.Delete(filePath);
+            {
+                try
+                {
+                    File.Delete(filePath);
+                }
+                catch (Exception ex)
+                {
+                    // در صورت نیاز می‌توانید Exception را log کنید
+                    throw new Exception("خطا در حذف فایل", ex);
+                }
+            }
         }
 
         public string SaveFileAndReturnName(IFormFile file, string savePath)
         {
             if (file == null)
-                throw new Exception("File Is Null");
+                throw new Exception("فایل ارسال نشده است");
 
-            var fileName = $"{Guid.NewGuid()}{file.FileName}";
+            // گرفتن پسوند فایل و ساخت نام فایل امن
+            var extension = Path.GetExtension(file.FileName);
+            var fileName = $"{Guid.NewGuid()}{extension}";
 
-            var folderPath = Path.Combine(Directory.GetCurrentDirectory(), savePath.Replace("/", "\\"));
+            var folderPath = Path.Combine(Directory.GetCurrentDirectory(), savePath.Replace("/", Path.DirectorySeparatorChar.ToString()));
             if (!Directory.Exists(folderPath))
             {
                 Directory.CreateDirectory(folderPath);
             }
             var fullPath = Path.Combine(folderPath, fileName);
 
-            using var stram = new FileStream(fullPath, FileMode.Create);
-            file.CopyTo(stram);
+            try
+            {
+                using var stream = new FileStream(fullPath, FileMode.Create);
+                file.CopyTo(stream); // در صورت نیاز به نسخه Async: await file.CopyToAsync(stream);
+            }
+            catch (Exception ex)
+            {
+                // در صورت نیاز Exception را log کنید
+                throw new Exception("خطا در ذخیره فایل", ex);
+            }
             return fileName;
         }
     }
