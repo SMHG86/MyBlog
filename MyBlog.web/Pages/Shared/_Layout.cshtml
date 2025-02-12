@@ -1,42 +1,40 @@
-﻿
-<!DOCTYPE html>
-<html lang="en">
-
+﻿<!DOCTYPE html>
+<html lang="fa">
 <head>
-    <title>topkalamag | Home</title>
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="">
-
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,600,700%7CSource+Sans+Pro:400,600,700' rel='stylesheet'>
-
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewData["Title"] - MyBlog</title>
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link rel="stylesheet" href="/css/font-icons.css" />
     <link rel="stylesheet" href="/css/style.css" />
-
-    <link rel="shortcut icon" href="/img/favicon.png">
-    <link rel="apple-touch-icon" href="/img/apple-icon.png">
+    <link rel="shortcut icon" href="/img/favicon.png" />
     <script src="/js/lazysizes.min.js"></script>
 </head>
-<body class="bg-light style-default style-rounded">
+<body class="bg-light">
     <div class="loader-mask">
-        <div class="loader">
-            <div></div>
-        </div>
+        <div class="loader"><div></div></div>
     </div>
     <div class="content-overlay"></div>
-    <partial name="Headers/_SideNav" />
-    <main class="main oh" id="main">
 
-        <partial name="Headers/_TopHeader" /> 
+    <!-- Partial: Side Navigation -->
+    <partial name="Headers/_SideNav" />
+
+    <main class="main" id="main">
+        <!-- Partial: Top Header -->
+        <partial name="Headers/_TopHeader" />
+        <!-- Partial: Main Header -->
         <partial name="Headers/_MainHeader" />
+
         @RenderBody()
+
+        <!-- Partial: Footer -->
         <partial name="_Footer" />
+
         <div id="back-to-top">
             <a href="#top" aria-label="Go to top"><i class="ui-arrow-up"></i></a>
         </div>
-    </main> 
+    </main>
+
     <script src="/js/jquery.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/easing.min.js"></script>
@@ -46,6 +44,23 @@
     <script src="/js/jquery.newsTicker.min.js"></script>
     <script src="/js/modernizr.min.js"></script>
     <script src="/js/scripts.js"></script>
+    <script>
+        // Dark Mode Toggle
+        $(document).ready(function(){
+            $('#darkModeToggle').click(function(){
+                $('body').toggleClass('dark-mode');
+                localStorage.setItem('darkMode', $('body').hasClass('dark-mode') ? 'true' : 'false');
+            });
+            if (localStorage.getItem('darkMode') === 'true') {
+                $('body').addClass('dark-mode');
+            }
+            // Toggle search box
+            $('#nav__search-trigger').click(function(e){
+                e.preventDefault();
+                $('#nav__search-box').slideToggle();
+            });
+        });
+    </script>
+    @RenderSection("Scripts", required: false)
 </body>
-
 </html>

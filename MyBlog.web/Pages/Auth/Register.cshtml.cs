@@ -27,6 +27,11 @@ namespace MyBlog.Web.Pages.Auth
         [Required(ErrorMessage = "{0} را وارد کنید")]
         public string FullName { get; set; }
 
+        [Display(Name = "ایمیل")]
+        [Required(ErrorMessage = "وارد کردن {0} الزامی است")]
+        [EmailAddress(ErrorMessage = "لطفاً یک ایمیل معتبر وارد کنید")]
+        public string Email { get; set; }
+
         [Display(Name = "کلمه عبور")]
         [Required(ErrorMessage = "{0} را وارد کنید")]
         [MinLength(6, ErrorMessage = "{0} باید بیشتر از 5 کاراکتر باشد")]
@@ -53,7 +58,8 @@ namespace MyBlog.Web.Pages.Auth
             {
                 UserName = UserName,
                 Password = Password,
-                Fullname = FullName
+                Fullname = FullName,
+                Email = Email
             });
             if (result.Status == OperationResultStatus.Error)
             {

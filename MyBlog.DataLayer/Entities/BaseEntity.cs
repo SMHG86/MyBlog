@@ -1,5 +1,4 @@
 ﻿using System;
-using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
 namespace MyBlog.DataLayer.Entities
@@ -8,7 +7,9 @@ namespace MyBlog.DataLayer.Entities
     {
         [Key]
         public int Id { get; set; }
-        public DateTime CreationDate { get; set; } = DateTime.Now;
+
+        // استفاده از UtcNow برای ثبت زمان به صورت استاندارد
+        public DateTime CreationDate { get; set; } = DateTime.UtcNow;
         public bool IsDelete { get; set; }
     }
 }

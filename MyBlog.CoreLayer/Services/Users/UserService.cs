@@ -21,13 +21,12 @@ namespace MyBlog.CoreLayer.Services.Users
             if (registerDto == null)
                 return OperationResult.Error("اطلاعات ثبت نام نامعتبر است");
 
-            var isUserNameExist = _context.Users.Any(u => u.UserName == registerDto.UserName);
-
+            bool isUserNameExist = _context.Users.Any(u => u.UserName == registerDto.UserName);
             if (isUserNameExist)
                 return OperationResult.Error("نام کاربری تکراری است");
 
-            // توجه: MD5 الگوریتمی ضعیف است؛ توصیه می‌شود از الگوریتم‌های امن‌تری مانند BCrypt یا ASP.NET Core Identity استفاده کنید.
-            var passwordHash = registerDto.Password.EncodeToMd5();
+            // هشینگ امن پسورد با استفاده از BCrypt
+            string passwordHash = registerDto.Password.HashPassword();
             _context.Users.Add(new User()
             {
                 FullName = registerDto.Fullname,
@@ -35,7 +34,7 @@ namespace MyBlog.CoreLayer.Services.Users
                 Password = passwordHash,
                 Role = UserRole.User,
                 IsDelete = false,
-                CreationDate = DateTime.UtcNow // استفاده از UTC جهت جلوگیری از مشکلات زمانی
+                CreationDate = DateTime.UtcNow
             });
             _context.SaveChanges();
             return OperationResult.Success();
@@ -46,11 +45,13 @@ namespace MyBlog.CoreLayer.Services.Users
             if (loginDto == null)
                 return null;
 
-            var passwordHashed = loginDto.Password.EncodeToMd5();
-            var user = _context.Users
-                .FirstOrDefault(u => u.UserName == loginDto.UserName && u.Password == passwordHashed);
-
+            // جستجو بر اساس UserName
+            User user = _context.Users.FirstOrDefault(u => u.UserName == loginDto.UserName);
             if (user == null)
+                return null;
+
+            // اعتبارسنجی پسورد با استفاده از BCrypt
+            if (!loginDto.Password.VerifyPassword(user.Password))
                 return null;
 
             return new UserDto()
@@ -58,7 +59,7 @@ namespace MyBlog.CoreLayer.Services.Users
                 UserId = user.Id,
                 FullName = user.FullName,
                 UserName = user.UserName,
-                Password = user.Password,
+                Password = user.Password, 
                 Role = user.Role,
                 RegisterDate = user.CreationDate
             };

@@ -174,3 +174,4 @@ D:\c#\proje\MyBlog\MyBlog\MyBlog.web\bin\Debug\net8.0\MyBlog.CoreLayer.pdb
 D:\c#\proje\MyBlog\MyBlog\MyBlog.web\bin\Debug\net8.0\MyBlog.DataLayer.pdb
 D:\c#\proje\MyBlog\MyBlog\MyBlog.web\obj\Debug\net8.0\MyBlog.web.csproj.AssemblyReference.cache
 D:\c#\proje\MyBlog\MyBlog\MyBlog.web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\c#\proje\MyBlog\MyBlog\MyBlog.web\bin\Debug\net8.0\BCrypt.Net-Next.dll

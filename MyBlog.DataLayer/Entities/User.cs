@@ -1,21 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MyBlog.DataLayer.Entities
 {
-    public class User:BaseEntity
+    public class User : BaseEntity
     {
         [Required]
         public string UserName { get; set; }
+
         public string FullName { get; set; }
+
         [Required]
         public string Password { get; set; }
+
+        [Required]
+        public string Email { get; set; }
+
         public UserRole Role { get; set; }
-       
 
         #region Relations
 
